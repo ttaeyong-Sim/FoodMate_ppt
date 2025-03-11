@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="3">
+  <diagram name="구매자" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="1953" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="메인페이지" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="700" y="90" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-61" value="세부내용" style="rounded=1;fillColor=#9ce198;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="210" y="850" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-62" value="사이트 맵" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="90" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-63" value="로그아웃" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="848" y="190" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-64" value="로그인" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="552" y="190" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-65" value="회원가입" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="552" y="280" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-66" value="최근 본 레시피" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="848" y="280" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-67" value="마이페이지" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="848" y="370" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-68" value="고객센터" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="370" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-69" value="장바구니" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="370" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-70" value="회원 정보수정" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="848" y="460" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-71" value="주문/배송조회" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="848" y="554.5" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-72" value="검색" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="552" y="370" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-74" value="카테고리" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="630" y="465.5" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-75" value="공지사항" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="400" y="465.5" width="148" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FLJYaMQdKg9m2vT-tpmd-76" value="주문/결제" style="rounded=1;fillColor=#22d818;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=18;fontColor=#fafafa;" parent="1" vertex="1">
+          <mxGeometry x="180" y="465.5" width="148" height="44.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A4H_0P3yvRsOizmPmIPN" name="판매자">
+    <mxGraphModel dx="1367" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NpegE_sIhYpIeMGWeTcC" name="관리자">
+    <mxGraphModel dx="1367" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
